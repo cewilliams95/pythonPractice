@@ -18,7 +18,8 @@ class MainWindow(tk.Toplevel):
         self.scoreLabel = tk.Label(master, text=str(self.score))
         self.scoreLabel.grid(row=4,column=1)
         self.question = tk.Label(master, text="")
-        self.question.grid(row=1,columnspan=2)
+        self.question.place(anchor="center")
+        # self.question.grid(row=1,columnspan=2)
 
         self.getQuestions()
         self.writeQuestion(master)
