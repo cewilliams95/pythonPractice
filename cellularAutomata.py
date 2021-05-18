@@ -1,0 +1,1 @@
+# TODO: implement basic CA based on https://calebrob.com/fun/2019/10/02/elementary-cellular-automata.html#:~:text=Cellular%20automata%20(CA)%20are%20discrete,a%20board%20and%20transition%20function.&text=Specifically%2C%20the%20transition%20function%20will,the%20next%20point%20in%20time.
